@@ -1,2 +1,0 @@
-# dominosml
-domnios in sml
